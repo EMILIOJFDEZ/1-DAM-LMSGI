@@ -1,0 +1,59 @@
+body {
+    background-image: url(http://www.todopaisajes.com/Imagenes/montana-de-hielo.jpg);
+    background-size:100%;
+    background-attachment:fixed;
+    font-family: 'Times New Roman';
+    font-size: 12px;
+}
+h1 {
+    color:rgb(0,133,131);
+}
+p {
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+a
+{
+    color:red;
+}
+u
+{
+    color:red;
+
+}
+td
+{
+    background-color: white;
+    border-collapse: collapse;
+    border: black 2px solid;
+    text-align: center;
+}
+.texto
+{
+    color:blue;
+}
+h2 {
+    color: blue;
+}
+
+.lista1
+{
+    color: orange;
+}
+.lista2
+{
+    color: green;
+}
+.lista3
+{
+    color: red;
+}
+.tardígrados
+{
+    color:rgb(152,130,41)
+}
+.textovioleta
+{
+    color:violet;
+}
