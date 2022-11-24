@@ -1,4 +1,52 @@
+body
+{
+    background-image: url(https://images.alphacoders.com/247/247143.jpg);
+    background-size:100%;
+    background-attachment:fixed;
+    text-align: center;
+}
+
 th, td
 {
     background-color: white;
+    border-color: gray;
+    border-style:inset;
+    border-width: 2px;
+    padding: 0px;
+}
+.fondorojo
+{
+    background-color: red;
+    color: white;
+}
+
+.fondoazul
+{
+    background-color:cornflowerblue;
+    margin: 0px;
+}
+
+.fondogris
+{
+    background-color: gray;
+    font-size: 25px;
+}
+
+.fondoamarillo
+{
+    background-color: yellow;
+    padding: 0px 50px;
+}
+
+li
+{
+    color: red;
+}
+.tamañofoto
+{
+    height: 50px;
+}
+table
+{
+    margin: 0px 0px 0px 38%;
 }
