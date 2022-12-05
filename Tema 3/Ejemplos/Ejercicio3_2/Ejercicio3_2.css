@@ -1,0 +1,87 @@
+body
+{
+    background-image: url(https://cdn.pixabay.com/photo/2020/02/05/09/57/mountain-4820681_960_720.jpg);
+    background-size:100%;
+    font-size: 20px;
+    background-attachment:fixed;
+    text-align: center;
+}
+.columna1
+{
+    background-color: orange;
+}
+.fila1
+{
+    background-color: green;
+    font-weight: bold;
+    p
+}
+.colorrojo
+
+
+
+tr:first-child{
+    font-weight: bold;
+}
+tr:first-child > td::first-letter{
+    font-size:40px;
+}
+tr>td:first-child{
+    font-size: medium;
+}
+tr>td:last-child:hover{
+    font-size: xx-large;
+}
+.asignaturas
+{
+    background-color: white;
+    text-transform: uppercase;
+}
+.lunes
+{
+    background-color: red;
+    text-transform: uppercase;
+}
+.recreo
+{
+    background-color: blue;
+    color: white;
+}
+
+th, td
+{
+    border-color: gray;
+    border-style:inset;
+    border-width: 2px;
+    padding: 0px;
+}
+
+input
+{
+    width: 1000px;
+    height: 200px;
+    background-color: pink;
+}
+button
+{
+    width: 100px;
+    height: 100px;
+}
+input:focus
+{
+    background-color: yellow;
+}
+a:link
+{
+    color: green;
+    text-decoration: none;
+}
+a:visited
+{
+    text-decoration: none;
+    color: red;
+}
+table
+{
+    border-style: solid;
+}
